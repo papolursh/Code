@@ -1,0 +1,7 @@
+C:\Users\spapolu.ACADIAN\source\repos\GMO_CodeTest\bin\Debug\GMO_CodeTest.exe.config
+C:\Users\spapolu.ACADIAN\source\repos\GMO_CodeTest\bin\Debug\GMO_CodeTest.exe
+C:\Users\spapolu.ACADIAN\source\repos\GMO_CodeTest\bin\Debug\GMO_CodeTest.pdb
+C:\Users\spapolu.ACADIAN\source\repos\GMO_CodeTest\obj\Debug\ML_GMO_CodeTest.csproj.CoreCompileInputs.cache
+C:\Users\spapolu.ACADIAN\source\repos\GMO_CodeTest\obj\Debug\GMO_CodeTest.exe
+C:\Users\spapolu.ACADIAN\source\repos\GMO_CodeTest\obj\Debug\GMO_CodeTest.pdb
+C:\Users\spapolu.ACADIAN\source\repos\GMO_CodeTest\obj\Debug\ML_GMO_CodeTest.csprojAssemblyReference.cache

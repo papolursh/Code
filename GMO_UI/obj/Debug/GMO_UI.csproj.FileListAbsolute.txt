@@ -1,0 +1,15 @@
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\bin\Debug\GMO_UI.exe.config
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\bin\Debug\GMO_UI.exe
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\bin\Debug\GMO_UI.pdb
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\obj\Debug\GMO_UI.csprojAssemblyReference.cache
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\obj\Debug\MainWindow.g.cs
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\obj\Debug\App.g.cs
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\obj\Debug\GMO_UI_MarkupCompile.cache
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\obj\Debug\GMO_UI_MarkupCompile.lref
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\obj\Debug\MainWindow.baml
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\obj\Debug\GMO_UI.g.resources
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\obj\Debug\GMO_UI.Properties.Resources.resources
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\obj\Debug\GMO_UI.csproj.GenerateResource.cache
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\obj\Debug\GMO_UI.csproj.CoreCompileInputs.cache
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\obj\Debug\GMO_UI.exe
+C:\Users\spapolu.ACADIAN\source\repos\GMO_UI\obj\Debug\GMO_UI.pdb

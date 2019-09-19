@@ -1,0 +1,15 @@
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\obj\Debug\UI_ContactForm.csprojAssemblyReference.cache
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\obj\Debug\MainWindow.g.cs
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\obj\Debug\App.g.cs
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\obj\Debug\GMO_UI_MarkupCompile.cache
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\obj\Debug\GMO_UI_MarkupCompile.lref
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\obj\Debug\GMO_UI.exe
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\obj\Debug\GMO_UI.pdb
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\bin\Debug\GMO_UI.exe.config
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\bin\Debug\GMO_UI.exe
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\bin\Debug\GMO_UI.pdb
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\obj\Debug\MainWindow.baml
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\obj\Debug\GMO_UI.g.resources
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\obj\Debug\GMO_UI.Properties.Resources.resources
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\obj\Debug\UI_ContactForm.csproj.GenerateResource.cache
+C:\Users\spapolu.ACADIAN\Desktop\Material\GMO\Code\GMO_UI\obj\Debug\UI_ContactForm.csproj.CoreCompileInputs.cache
