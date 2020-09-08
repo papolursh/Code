@@ -1,0 +1,10 @@
+[2020-09-08 19:18:53,480] [140105594021696] {{scheduler_job.py:1159}} INFO - Setting the following 1 tasks to queued state:
+        <TaskInstance: bootstrap_container.bootstrap_container_task 2020-09-08 19:18:45.680359+00:00 [queued]>
+[2020-09-08 19:18:53,480] [140105594021696] {{scheduler_job.py:1195}} INFO - Sending ('bootstrap_container', 'bootstrap_container_task', datetime.datetime(2020, 9, 8, 19, 18, 45, 680359, tzinfo=<TimezoneInfo [UTC, GMT, +00:00:00, STD]>), 1) to executor with priority 1 and queue default
+[2020-09-08 19:18:53,481] [140105594021696] {{base_executor.py:58}} INFO - Adding to queue: ['airflow', 'run', 'bootstrap_container', 'bootstrap_container_task', '2020-09-08T19:18:45.680359+00:00', '--local', '--pool', 'default_pool', '-sd', '/usr/local/airflow/dags/bootstrap_container.py']
+[2020-09-08 19:18:53,486] [140105594021696] {{local_executor.py:65}} INFO - QueuedLocalWorker running ['airflow', 'run', 'bootstrap_container', 'bootstrap_container_task', '2020-09-08T19:18:45.680359+00:00', '--local', '--pool', 'default_pool', '-sd', '/usr/local/airflow/dags/bootstrap_container.py']
+[2020-09-08 19:18:55,213] [140453469996864] {{__init__.py:50}} INFO - Using executor LocalExecutor
+[2020-09-08 19:18:55,214] [140453469996864] {{dagbag.py:417}} INFO - Filling up the DagBag from /usr/local/airflow/dags/bootstrap_container.py
+Running %s on host %s <TaskInstance: bootstrap_container.bootstrap_container_task 2020-09-08T19:18:45.680359+00:00 [queued]> 0d4102103675
+[2020-09-08 19:19:10,493] [140105594021696] {{scheduler_job.py:1494}} INFO - Exiting scheduler loop as all files have been processed 15 times
+[2020-09-08 19:19:10,494] [140105594021696] {{scheduler_job.py:1513}} INFO - Deactivating DAGs that haven't been touched since 2020-09-08T19:18:51.439407+00:00
