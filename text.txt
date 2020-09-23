@@ -1,3 +1,5 @@
 https://virtu.zoom.us/meeting/register/tJIrcu-srzksGdK2K9Ar0yzO2cb1bQY_0FN8
 https://virtu.zoom.us/meeting/register/tJcvcuGtpj4rHdXnC_C2-a2BCwpyDC0d141C
 https://virtu.zoom.us/meeting/register/tJctdOGurjsqG9Nh_yRgz9BWeRNd9IEqVuU4
+Clickhouse Arrays:
+https://us02web.zoom.us/webinar/register/4015537115045/WN_OEB9HWm6S3ONKYw1_z7pIA?utm_campaign=Emails%20for%20subscribers&utm_medium=email&_hsmi=95194247&_hsenc=p2ANqtz-8qa2RZsjUAyDV0IjqBDmol9KnULI8ivE8n_34tL3lY4OwO69St23Xm5AwFFsiR7YkGOSHBB-jEDyP68-Y4Xiw4T8o-hA&utm_content=95194247&utm_source=hs_email
